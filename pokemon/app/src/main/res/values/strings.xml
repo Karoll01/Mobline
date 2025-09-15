@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">findPokemon</string>
+    <array name="kindsOfPokemons">
+        <item>ogniste</item>
+        <item>wodne</item>
+        <item>ziemny</item>
+        <item>robak</item>
+    </array>
+</resources>
